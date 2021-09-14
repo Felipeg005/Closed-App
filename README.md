@@ -68,6 +68,8 @@ Give a ⭐️ if you like this project!
 
 - Thanks to Microverse for making it possible!
 
+- Thanks to React community.
+
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
